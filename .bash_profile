@@ -1,5 +1,3 @@
-#http://10.0.97.198/ali-proxy.pac
-#http://remotemock.alibaba-inc.com/ali-proxy.pac
 #trap 'echo "the damn line==>$LINENO, a=$a,b=$b,c=$c,"' debug
 alias l='ls -al'
 alias ll='ls -al'
